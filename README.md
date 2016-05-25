@@ -21,7 +21,7 @@ TechNote1.pdf       =>  DV-MEGA GMSK data-rate set-up.
 
 TechNote2.pdf       =>  RTL-SDR Sensitivity for AIS System.
 
-# Conctact:
+# Contact:
  
 Francisco Cabrera, Nicolás Molina, Víctor Araña
 
