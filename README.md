@@ -16,7 +16,7 @@ Within this repository you will find three directories: Firmware, Layout and Tec
 
 **TechNotes**
 - TechNote1.pdf       =>  RTL-SDR Sensitivity for AIS System.
-- TechNote2.pdf       =>  DV-MEGA GMSK data-rate set-up.
+- TechNote2.pdf       =>  DV-MEGA GMSK bitrate set-up for AIS System.
 
 # Contact:
  
