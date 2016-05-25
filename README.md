@@ -15,8 +15,8 @@ Within this repository you will find three directories: Firmware, Layout and Tec
 - Connections.pdf     =>  Description of pin connections over prototype board.
 
 **TechNotes**
-- TechNote1.pdf       =>  DV-MEGA GMSK data-rate set-up.
-- TechNote2.pdf       =>  RTL-SDR Sensitivity for AIS System.
+- TechNote1.pdf       =>  RTL-SDR Sensitivity for AIS System.
+- TechNote2.pdf       =>  DV-MEGA GMSK data-rate set-up.
 
 # Contact:
  
