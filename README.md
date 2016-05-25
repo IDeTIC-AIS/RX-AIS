@@ -12,6 +12,7 @@ Within this repository you will find three directories: Firmware, Layout and Tec
 - ais_rx1_v1.sch      =>  Schematic design in Eagle.
 - ais_rx1_v1.brd      =>  Layout design in Eagle.
 - AIS_RX_PCB.pdf      =>  Schematic and Layout (top and bottom layers).
+- Connections         =>  Description of pin connections over prototype board.
 
 **TechNotes**
 - TechNote1.pdf       =>  DV-MEGA GMSK data-rate set-up.
