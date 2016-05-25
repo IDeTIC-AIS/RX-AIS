@@ -8,17 +8,14 @@ Within this repository you will find three directories: Firmware, Layout and Tec
 - nmea.c              =>  Library to implement the NMEA Protocol.
 - nmea.h              =>  Header File.
 
-# Layout
-ais_rx1_v1.sch      =>  Schematic design in Eagle.
+**Layout**
+- ais_rx1_v1.sch      =>  Schematic design in Eagle.
+- ais_rx1_v1.brd      =>  Layout design in Eagle.
+- AIS_RX_PCB.pdf      =>  Schematic and Layout (top and bottom layers).
 
-ais_rx1_v1.brd      =>  Layout design in Eagle.
-
-AIS_RX_PCB.pdf      =>  Schematic and Layout (top and bottom layers).
-
-# TechNotes
-TechNote1.pdf       =>  DV-MEGA GMSK data-rate set-up.
-
-TechNote2.pdf       =>  RTL-SDR Sensitivity for AIS System.
+**TechNotes**
+- TechNote1.pdf       =>  DV-MEGA GMSK data-rate set-up.
+- TechNote2.pdf       =>  RTL-SDR Sensitivity for AIS System.
 
 # Contact:
  
