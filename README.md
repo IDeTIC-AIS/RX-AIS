@@ -2,12 +2,10 @@
 
 Within this repository you will find three directories: Firmware, Layout and Technical Notes. The file system repository allows access to files to develop an Automatic Identification System Modular Receiver.
 
-# Firmware
-aisRxController.ino =>  AIS Firmware  with Arduino language.
-
-nmea.c              =>  Library to implement the NMEA Protocol.
-
-nmea.h              =>  Header File.
+** Firmware **
+- aisRxController.ino =>  AIS Firmware  with Arduino language.
+- nmea.c              =>  Library to implement the NMEA Protocol.
+- nmea.h              =>  Header File.
 
 # Layout
 ais_rx1_v1.sch      =>  Schematic design in Eagle.
