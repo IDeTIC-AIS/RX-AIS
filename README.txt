@@ -1,42 +1,27 @@
-# --------------------------------------------------------------------------------
-# ---  IDETIC-AIS
-# --------------------------------------------------------------------------------
+<About this Repository>
 
-This file contains information about the directory & file structure.
+Within this repository you will find three directories: Firmware, Layout and Technical Notes. 
+The file system repository allows access to files to develop an Automatic Identification System Modular Receiver.
 
-# --------------------------------------------------------------------------------
-# ---  <Directory Firmware>
-# --------------------------------------------------------------------------------
+Firmware
 
-aisRxController.ino =>  AIS Firmware  with Arduino language.
+aisRxController.ino =>  AIS Firmware  with Arduino language.    (Se puede poner con bullets?)
 nmea.c              =>  Library to implement the NMEA Protocol
 nmea.h              =>  Header File 
-
-# --------------------------------------------------------------------------------
-# ---  <Directory Layout>
-# --------------------------------------------------------------------------------
-
+Layout (En Negrita)
 ais_rx1_v1.sch      =>  Schematic design in Eagle.
 ais_rx1_v1.brd      =>  Layout design in Eagle.
 AIS_RX_PCB.pdf      =>  Schematic and Layout (top and bottom layers).
-
-# --------------------------------------------------------------------------------
-# ---  <Directory TechNotes>
-# --------------------------------------------------------------------------------
-
+TechNotes (En Negrita)
 TechNote1.pdf       =>  DV-MEGA GMSK data-rate set-up.
 TechNote2.pdf       =>  RTL-SDR Sensitivity for AIS System.
-idetic-ais_logo.png =>  Prototype logo
-# --------------------------------------------------------------------------------
-# ---  Contact:
-# --------------------------------------------------------------------------------
-
+Conctact: (En Negrita)
+ 
 Francisco Cabrera, Nicolás Molina, Víctor Araña
 francisco.cabrera@ulpgc.es
 DSC-IDeTIC, Pabellón B Telecomunicaciones,
 ULPGC, Campus de Tafira S/N,
 Las Palmas de G.C. 35011, Spain
-
 Miluse Tichavska
 miluse.tichavska@marinetraffic.com
 Exmile Solutions Limited (MarineTraffic),
