@@ -26,7 +26,7 @@ AIS_RX_PCB.pdf      =>  Schematic and Layout (top and bottom layers).
 
 TechNote1.pdf       =>  DV-MEGA GMSK data-rate set-up.
 TechNote2.pdf       =>  RTL-SDR Sensitivity for AIS System.
-
+idetic-ais_logo.png =>  Prototype logo
 # --------------------------------------------------------------------------------
 # ---  Contact:
 # --------------------------------------------------------------------------------
