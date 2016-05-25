@@ -4,11 +4,9 @@ Within this repository you will find three directories: Firmware, Layout and Tec
 
 **Firmware**
 
-aisRxController.ino =>  AIS Firmware  with Arduino language.
-
-nmea.c              =>  Library to implement the NMEA Protocol.
-
-nmea.h              =>  Header File.
+- aisRxController.ino =>  AIS Firmware  with Arduino language.
+- nmea.c              =>  Library to implement the NMEA Protocol.
+- nmea.h              =>  Header File.
 
 # Layout
 ais_rx1_v1.sch      =>  Schematic design in Eagle.
